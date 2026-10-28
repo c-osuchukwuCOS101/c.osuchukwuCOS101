@@ -1,0 +1,1 @@
+C:\Users\User\Documents\c.osuchukwuCOS101\c.osuchukwuCOS101\week-10\practices_6\target\debug\practices_6.exe: C:\Users\User\Documents\c.osuchukwuCOS101\c.osuchukwuCOS101\week-10\practices_6\src\main.rs
